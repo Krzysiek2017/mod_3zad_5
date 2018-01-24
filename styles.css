@@ -1,0 +1,43 @@
+﻿* {
+    color: bisque;
+    font-family: monospace;
+}
+body {
+    margin: 0 auto;
+    max-width: 1200px;
+    background-color: darkgrey;
+}
+h1 {
+    padding: 10px;
+    text-align: center;
+}
+label {
+    font-size: 18px;
+    padding: 5px;
+}
+input {
+    padding: 5px;
+    color: black;
+    text-align: center;
+}
+img {
+    padding: 10px;
+    border: 1px solid white;
+    background-color: white;
+    margin: 30px 30px;
+}
+.list {
+    border-bottom: 1px solid bisque;
+    padding: 10px;
+}
+form {
+    text-align: center;
+}
+a {
+    font-size: 20px;
+    text-decoration: none;
+    margin: 30px 30px;
+}
+a:hover {
+    color: dimgray;
+}
